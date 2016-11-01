@@ -125,7 +125,7 @@ education:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/1231967/tim-wise
+   profileurl: http://stackexchange.com/users/1276916
    flairimageurl: http://stackoverflow.com/users/flair/1231967.png
 
 #Mobile apps section is optional
