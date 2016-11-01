@@ -124,9 +124,9 @@ education:
 # - robhinds/AndroidRssReader
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackexchange.com/users/1276916
-   flairimageurl: http://stackoverflow.com/users/flair/1231967.png
+#stackoverflow:
+#   profileurl: http://stackexchange.com/users/1276916
+#   flairimageurl: http://stackoverflow.com/users/flair/1231967.png
 
 #Mobile apps section is optional
 #apps:
