@@ -14,7 +14,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/tjwise
  - title: StackOverflow
-   url: http://stackoverflow.com/users/1276916/tim-wise
+   url: http://stackoverflow.com/users/1231967/tim-wise
  - title: DZone
    url: https://dzone.com/users/472198/tjwise.html
  - title: LinkedIn
@@ -125,8 +125,8 @@ education:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/1276916/tim-wise
-   flairimageurl: http://stackoverflow.com/users/flair/1276916.png
+   profileurl: https://stackoverflow.com/users/1231967/tim-wise
+   flairimageurl: http://stackoverflow.com/users/flair/1231967.png
 
 #Mobile apps section is optional
 #apps:
