@@ -115,7 +115,7 @@ education:
 #      date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
-github:
+githubProjects:
  - robhinds/learning-neural-networks
  - robhinds/akka-http-rest-api-sample
  - robhinds/twitter-sentiment-analysis
