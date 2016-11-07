@@ -22,7 +22,8 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
+ - Agile Methodologies
+ - Enterprise Architecture
  - Spring MVC
  - Spring Boot
  - Gradle
@@ -31,6 +32,7 @@ skills:
  - SQL
  - REST
  - Tech Architecture
+ - Microservices
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -78,8 +80,8 @@ roles:
    employer: Interface Systems
    description: blah
  - title: Technical Manager/Principle
-   start: 1989
-   end: 1983
+   start: 1983
+   end: 1989
    employer: Pathway Design
    description: blah
  - title: Various
